@@ -1,7 +1,9 @@
 {
-    "name" : "DigitalIQ",
-    "version" : "0.0.1",
-    "dependencies" : {
-        "express" : "3.x"
-    }
+  "name": "DigitalIQ",
+  "version": "0.0.1",
+  "dependencies": {
+    "express": "3.x",
+    "mailer": "^0.6.7",
+    "nodemailer": "^1.1.1"
+  }
 }
