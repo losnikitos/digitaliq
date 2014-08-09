@@ -26,6 +26,6 @@ node_modules
 .idea
 .tmp/
 app/bower_components/
-dist/
+# dist/
 server/emails.txt
 test/bower_components/
